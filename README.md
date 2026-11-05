@@ -13,7 +13,7 @@ This survey covers:
 - Applications and open research problems
 
 ## Contents
-- `Federated_Learning_IEEE_Paper.docx`: paper (IEEE A4 template)
+- `Finderated_learning _research paper_IEEE format.docx`: paper (IEEE A4 template)
 
 ## Note
  all references were checked by the author.
